@@ -1,0 +1,11 @@
+cmake==3.29.2
+dlib==19.24.1
+mediapipe==0.10.11
+noisereduce==1.1.0
+numpy==1.26.4
+opencv_contrib_python==4.9.0.80
+opencv_python==4.9.0.80
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+sounddevice==0.4.6
+websockets==12.0
